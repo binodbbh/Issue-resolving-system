@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/reyon/VScode/C#/DotNet/BetterWorld/BetterWorld.csproj": {}
+    "/Users/binodbhusal/Hackathon/Issue-resolving-system/BetterWorld/BetterWorld.csproj": {}
   },
   "projects": {
-    "/Users/reyon/VScode/C#/DotNet/BetterWorld/BetterWorld.csproj": {
+    "/Users/binodbhusal/Hackathon/Issue-resolving-system/BetterWorld/BetterWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/reyon/VScode/C#/DotNet/BetterWorld/BetterWorld.csproj",
+        "projectUniqueName": "/Users/binodbhusal/Hackathon/Issue-resolving-system/BetterWorld/BetterWorld.csproj",
         "projectName": "BetterWorld",
-        "projectPath": "/Users/reyon/VScode/C#/DotNet/BetterWorld/BetterWorld.csproj",
-        "packagesPath": "/Users/reyon/.nuget/packages/",
-        "outputPath": "/Users/reyon/VScode/C#/DotNet/BetterWorld/obj/",
+        "projectPath": "/Users/binodbhusal/Hackathon/Issue-resolving-system/BetterWorld/BetterWorld.csproj",
+        "packagesPath": "/Users/binodbhusal/.nuget/packages/",
+        "outputPath": "/Users/binodbhusal/Hackathon/Issue-resolving-system/BetterWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/reyon/.nuget/NuGet/NuGet.Config"
+          "/Users/binodbhusal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
